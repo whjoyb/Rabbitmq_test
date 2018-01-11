@@ -14,7 +14,7 @@ public class Send {
   
     public static void main(String[] args) throws IOException, TimeoutException {
         ConnectionFactory factory = new ConnectionFactory();
-        factory.setHost("szhpc6287");
+        factory.setHost("x.x.x.x");
         factory.setUsername("admin");
         factory.setPassword("admin");
         factory.setPort(5672);

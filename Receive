@@ -15,7 +15,7 @@ public class Reqv {
   
         factory.setUsername("admin");  
         factory.setPassword("admin");  
-        factory.setHost("10.173.66.56");  
+        factory.setHost("x.x.x.x");  
         factory.setVirtualHost("/");   
         factory.setPort(5672);  
         Connection connection = factory.newConnection();  
